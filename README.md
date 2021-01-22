@@ -1,0 +1,2 @@
+# RestoranOtomasyonuNB
+RestoranOtomasyonuNetBeans Project Code
